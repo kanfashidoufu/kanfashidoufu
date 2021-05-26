@@ -18,7 +18,7 @@
 [![](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat-square&logo=vue.js&logoColor=ffffff)](https://vuejs.org/)
 [![](https://img.shields.io/badge/React-cb3837?style=flat-square&logo=React&logoColor=ffffff)](https://reactjs.org/)
 [![](https://img.shields.io/badge/-Electron-6DB33F?style=flat-square&logo=electron&logoColor=ffffff)](https://www.electronjs.org/)
-[![](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
+[![](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node-dot-js&logoColor=ffffff)](https://nodejs.org/)
 [![](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=ffffff)](https://nginx.org/)
 
 
