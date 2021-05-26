@@ -21,3 +21,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center"> 
+  <br>
+  访问者数量<br><br>
+  <img src="https://counter-bingo.glitch.me/count.svg" />
+</p>
